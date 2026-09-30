@@ -12,8 +12,8 @@ OLLAMA_OPTIONS = {
 }
 
 # --- EMAIL (Gmail SMTP) ---
-EMAIL_ADDRESS      = "shwaranmuke@gmail.com"
-EMAIL_APP_PASSWORD = "ebxw kini zigq fbda"
+EMAIL_ADDRESS      = "your email"
+EMAIL_APP_PASSWORD = "your app password"
 
 # --- VOICE ---
 TTS_ENABLED = True
